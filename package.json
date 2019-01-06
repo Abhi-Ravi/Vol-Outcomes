@@ -2,9 +2,9 @@
   "name": "nodesod",
   "version": "1.0.0",
   "description": "Student Outcome Database",
-  "main": "app.js",
+  "main": "index.js",
   "scripts": {
-    "start": "node app.js"
+    "start": "node server/index.js"
   },
   "author": "Abhi Ravi",
   "license": "MIT",
@@ -12,9 +12,7 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "mongoose": "^5.4.0",
-    "node": "^11.6.0",
-    "nodemon": "^1.18.8",
-    "pug": "^2.0.3"
+    "mongodb": "^3.6.6",
+    "node": "^11.6.0"
   }
 }

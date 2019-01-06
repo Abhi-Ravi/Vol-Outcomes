@@ -12,9 +12,10 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "mongodb": "^4.0.4"
+    "mongodb": "^4.0.4",
+    "mongoose": "^5.4.2"
   },
-  "engines":{
+  "engines": {
     "node": "^10.13.0"
   }
 }

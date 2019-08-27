@@ -1,24 +1,8 @@
 # Vol-Outcomes
-full stack app for displaying alumni salary data using Vue.js., Express and MongoDB.
+Website that streamlines Alumni Salary data published by the University of Tennessee into an easy to use website.
+Built with Vue.js., Express and MongoDB.
 www.volsalumni.com
 
-## Quick Start
-
-```bash
-# Install dependencies
-npm install
-
-# Start Express Server: http://localhost:5000
-npm start
-
-# Start Vue DevServer: http://localhost:8080
-cd client
-npm run serve
-
-# Build for production (Will build into server/public, ready for deployment)
-cd client
-npm run build
-```
 
 ## App Info
 
